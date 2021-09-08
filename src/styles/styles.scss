@@ -5,3 +5,12 @@
     width: 80%;
     margin:0 auto;
 }
+
+.drag-drop-container{
+    width: 50rem;
+    height: 20rem;
+    background-color: $second;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
